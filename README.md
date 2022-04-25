@@ -1,2 +1,2 @@
-![Gogas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooow&count_private=true&include_all_commits=true&&custom_title=Goga&line_height=24&theme=dracula&hide_border=true&bg_color=ffffff00&show_icons=true)
+![Gogas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooow&count_private=true&include_all_commits=true&&custom_title=Goga&line_height=24&theme=dracula&hide_border=true&bg_color=ffffff00&show_icons=true&hide_rank=true&disable_animations=true)
 ![Goga's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooow&layout=compact&theme=dracula&hide_border=true&bg_color=ffffff00&hide_title=true&langs_count=10)
