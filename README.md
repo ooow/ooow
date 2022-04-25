@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ooow/ooow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there ✨, I'm Goga
+
+- ⚡ As you can see, I like private repositories, but someday... 😄
+
+![Goga's github stats](https://github-readme-stats.vercel.app/api?username=ooow&show_icons=true&theme=default&disable_animations=true&count_private=true&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats&line_height=20)
+![Goga's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooow&hide=TeX&layout=compact)
