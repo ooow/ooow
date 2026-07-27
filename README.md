@@ -1,1 +1,1 @@
-Founder of a great service and product [Sandria](www.sandria.studio) 🍉
+Founder of a great service and product [Sandria](https://sandria.studio) 🍉
